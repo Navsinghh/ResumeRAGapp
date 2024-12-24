@@ -2,6 +2,11 @@
 
 This script demonstrates how to use **LangChain** to build a Retrieval-Augmented Generation (RAG) pipeline, allowing you to "ask questions" from a PDF document (e.g., resume or documentation). LangChain provides flexibility to work with various input formats, enabling easy integration with different data sources.
 
+## prerequisites
+
+1. node and npm
+2. ollama locally installed
+
 ## Pipeline Steps
 
 1. **Load the Language Model (LLM)**
