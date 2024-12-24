@@ -1,0 +1,17 @@
+{
+  "name": "resumeragapp",
+  "version": "1.0.0",
+  "description": "app based on js to fetch details of provided resume and give answers on based of questions asked and resume provided",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navpreet",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.19",
+    "@langchain/ollama": "^0.1.4",
+    "pdf-parse": "^1.1.1"
+  }
+}
